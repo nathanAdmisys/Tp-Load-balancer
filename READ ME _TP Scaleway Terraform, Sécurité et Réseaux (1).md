@@ -11,6 +11,7 @@ Vous configurez un Load Balancer qui répartit les requêtes entrantes sur 3 ser
 ![](https://i.imgur.com/bwaiYfg.png)
 
 
+* security group
 ![](https://i.imgur.com/oeEwv3w.png)
 
 
@@ -33,6 +34,9 @@ Chacun des serveurs héberge un serveur web (nginx ou apache au choix) avec une 
 
 
 La création des instances est faite via le CLI Scaleway.
+
+![](https://i.imgur.com/zvl1JSg.png)
+
 
 
 
